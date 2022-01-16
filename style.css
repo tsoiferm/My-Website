@@ -150,14 +150,14 @@ header a:hover {
 }
 
 #home {
-    background-image: linear-gradient(rgba(200,200,200,0.45),rgba(200,200,200,0.45)), url("C:/Users/twsoi/OneDrive/Pictures/IMG_2704.jpg");
+    background-image: linear-gradient(rgba(200,200,200,0.45),rgba(200,200,200,0.45)), url("img/IMG_2704.jpg");
 }
 
 #about {
     color: white;
     font-size: 20px;
     font-weight: bold;
-    background-image: linear-gradient(rgba(215,215,215,0.8),rgba(215,215,215,0.8)), url("IMG_2574.jpg");
+    background-image: linear-gradient(rgba(215,215,215,0.8),rgba(215,215,215,0.8)), url("img/IMG_2574.jpg");
 }
 
 #about a:link {
@@ -286,7 +286,7 @@ body {
 
 #connect {
     color: black;
-    background-image: linear-gradient(rgba(155,155,155,0.40),rgba(155,155,155,0.40)), url("C:/Users/twsoi/OneDrive/Pictures/City View (2).jpg");
+    background-image: linear-gradient(rgba(155,155,155,0.40),rgba(155,155,155,0.40)), url("img/City View (2).jpg");
 }
 
 #connect ul {
