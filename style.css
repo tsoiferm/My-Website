@@ -329,53 +329,25 @@ body {
 }
 
 @media (max-width: 992px) {  
-    .landing {
+    .body {
         text-align: center;
         margin: auto;
         padding-top: 15%;
     }
 
-    .landing-img {
-        margin-right: 20%;
-    }
-
-    .my-info {
-        font-size: 20px;
-    }
-    .my-info h1 {
-        font-size: 45px; 
-    }
-
-    .section-header {
+    .header {
         text-align: center;
         margin-top: 5%;
         margin-right: 13.3%;
     }
     
-    .section-name {
+    .section {
         text-align: center;
     }
 
-    .navbar {
-        text-align: center;
-    }
 
 }
 
-@media (max-width: 576px) {
-    .tech i {
-        font-size: 2.5em;
-    }
-
-    .artwork-section {
-        padding-top: 7em;
-    }
-
-    .artwork-section h2 {
-        font-size: 1.8em;
-    }
-    
-}
 
 
 
