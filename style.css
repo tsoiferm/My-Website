@@ -8,7 +8,7 @@ html, body {
   background-color: #fefdf8;
 }
 
-h43 {
+.dashheader {
   display: flex;
   justify-content: center;
 }
