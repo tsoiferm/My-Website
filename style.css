@@ -8,6 +8,11 @@ html, body {
   background-color: #fefdf8;
 }
 
+h43 {
+  display: flex;
+  justify-content: center;
+}
+
 .dashboard {
   display: flex;
   justify-content: center;
