@@ -9,8 +9,7 @@ html, body {
 }
 
 h43 {
-  display: block;
-  position: relative;
+  text-align: center;
 }
 
 .card-text-header {
