@@ -8,8 +8,9 @@ html, body {
   background-color: #fefdf8;
 }
 
-h43 {
-  text-align: center;
+.dashboard {
+  display: flex;
+  justify-content: center;
 }
 
 .card-text-header {
