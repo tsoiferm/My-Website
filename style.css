@@ -21,8 +21,8 @@ html, body {
 .stockD {
   display: flex;
   justify-content: center;
-  height: 600px;
-  width: 800px;
+  height: 400px;
+  width: 650px;
 }
 
 .card-text-header {
