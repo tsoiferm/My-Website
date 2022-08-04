@@ -18,6 +18,13 @@ html, body {
   justify-content: center;
 }
 
+.stockD {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+}
+
 .card-text-header {
   font-size: 1.5em;
   font-weight: bold;
