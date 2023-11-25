@@ -189,9 +189,43 @@ hr.light {
   margin-bottom: 1rem;
 }
 
+/*.container-fluid-padding {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #333;
+}*/
+
+.container-fluid-padding {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* Ensure the container takes at least the full height of the viewport */
+  box-sizing: border-box;
+  padding: 20px;
+  border: 1px solid #333;
+  line-height: 1.2;
+}
 
 
+.centered-bullets {
+  text-align: center;
+}
 
+.centered-bullets ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.container-fluid-padding h1,
+.container-fluid-padding h2 {
+    font-weight: bold;
+}
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
